@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anik
-- 👀 I’m interested in most of the things related to robotics, math and machine learning.
+- 👀 I’m interested in most of the things related to robotics, math & machine learning.
 - 📫 aniks@vt.edu
 <!---
 anikVT/anikVT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
